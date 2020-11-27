@@ -1,0 +1,31 @@
+.box {
+  background-color: rgb(255, 255, 255);
+  width: 10%;
+  height: 250px;
+  margin-top: 10em;
+  margin-bottom: 10em;
+  margin-left: 20em;
+  /* border-radius: 10px; */
+  padding: 20px;
+  justify-content: center;
+  box-shadow: 8px 8px 10px 2px rgba(0, 0, 0, 0.2);
+  border: 0.2px solid black;
+}
+.firsttext {
+  /* text-shadow: 0.8px 0.8px #1a1919; */
+  /* text-shadow: 2px 2px 10px #131212; */
+  text-shadow: 2px 2px 3.5px #000000;
+}
+.secondtext {
+  /* text-shadow: 0.8px 0.8px #1a1919; */
+  /* text-shadow: 2px 2px 10px #131212; */
+  text-shadow: 5px 5px 3.5px #000000;
+}
+.thirdtext {
+  /* text-shadow: 0.8px 0.8px #1a1919; */
+  /* text-shadow: 2px 2px 10px #131212; */
+  text-shadow: 10px 10px 3.5px #000000;
+}
+.fourthtext {
+  text-shadow: 20px 20px 3.5px #000000;
+}
